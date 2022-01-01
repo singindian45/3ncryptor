@@ -26,7 +26,7 @@ def updater(dictionary,text,d): #Updates the file "dictionary.txt" which contain
                 if text[i] not in garbage_bin:
                     garbage_bin.append(text[i])
                     j.write(text[i])
-def keygen(filename,dicti1):            #It loads all the elements in dictionary.txt into a list and randomizes this list to produce the encryption key which is then saved in a file called "encryptionkeys.txt"(different from "encryptionkey.txt")
+def keygen(filename,dicti1):            #It loads all the elements in dictionary.txt into a list and randomizes this list to produce the encryption key which is then saved in a file called "encryptionkeylist.txt"(different from "encryptionkey.txt")
     alpha = dicti1
     copy = alpha[:-2]
     r.shuffle(copy)
