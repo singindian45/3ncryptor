@@ -17,7 +17,6 @@ then it will throw an error.The reason is that even though the updater fucntion 
 6)If you have chosen 1 then you wish to decrypt a file. Copy the encryption key from "encryptionkeylist.txt" and paste it
 into "encryptionkey.txt" without any extra characters(including spaces). Eg (ajsahskashkahsa) --> correct, (ajsahskashkahsa  ) --> wrong
 
-
 7) ALWAYS COPY THE LATEST ENCRYPTION KEY ASSOCIATED WITH YOUR FILE. (Using a different encryption key will destroy all your data)
 
 8) In the event that any mistake occurs during encryption or decryption and data has been lost,There is an option in encrypt() to manually encrypt the file using the encrption key of your choice.
