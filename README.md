@@ -10,8 +10,7 @@ How to use:
 DO NOT ENTER OPTIONS 2 AND 3 AS THEY ARE STILL UNDER DEVELOPMENT
 
 4)If you have chosen 0 then you wish to encrypt a particular file.You may choose any text file.But if this file contains any new characters which are not already present in dictionary.txt 
-then it will throw an error.The reason is that even though the updater fucntion updates dictionary.txt the changes are not saved until the program stops.Hence running the program a second time
-will not cause any problems.
+then it will throw an error.The reason is that even though the updater fucntion updates dictionary.txt the changes are not saved until the program stops.Hence running the program a second time will solve the problem.
 
 5)the encryption key generated will be saved in "encryptionkeylist.txt".You may use this for decryption
 
