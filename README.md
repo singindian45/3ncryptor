@@ -1,7 +1,10 @@
 Mysterybox.py is the main program.
 How to use:
+
 1)First put all files in the same folder.
+
 2)Run the program 
+
 3)You will now be prompted to enter either 0,1,2,3,4
 
 DO NOT ENTER OPTIONS 2 AND 3 AS THEY ARE STILL UNDER DEVELOPMENT
