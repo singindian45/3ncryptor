@@ -1,7 +1,7 @@
 Mysterybox.py is the main program.
 How to use:
 
-1)First put all files in the same folder.
+1)First put all files(mysterybox.py,encryptionkey.txt,dictionary.txt,encryptionkeylist.txt) in a common folder.
 
 2)Run the program 
 
